@@ -1,0 +1,380 @@
+        body {
+            font-family: "Lucida Sans",Verdana;
+            font-size: 14px;
+            background-image: url('file:///D:/!!!Nicki!!!/Blog/Tutorials/Tutorials/BG2.png');
+            background-color: #1a0c1a;
+            color: #7d6d7d;
+            margin: 0;
+            padding: 0;
+        }
+        
+        #container {
+           width: 1300px;
+           height: auto;
+           margin-bottom: 20px;
+           margin-left: auto;
+           margin-right: auto;
+           background-image: url('file:///D:/!!!Nicki!!!/Blog/Tutorials/Tutorials/BG2.png');
+           margin-top: 20px;
+           padding-bottom: 0px;
+}
+
+   
+       #banner {
+            background-size: cover;
+            background-image: url('file:///D:/!!!Nicki!!!/Blog/Tutorials/Tutorials/BannerDN.jpg');
+            height: 400px;
+            background-position: center;
+            text-align: center;
+            border: 1px solid #D4AF37;
+            -webkit-border-radius: 8px 8px 8px 8px;
+            -moz-border-radius: 8px 8px 8px 8px;
+            border-radius: 8px 8px 8px 8px;
+       }
+
+        #inhalt {
+            background-size: cover;
+            background-position: center;
+            color: #f9f8f9;
+            text-align: center;
+            padding: 30px 20px;
+            border: 1px solid #D4AF37;
+            background-color: #7d6d7d;
+            -webkit-border-radius: 8px 8px 8px 8px;
+            -moz-border-radius: 8px 8px 8px 8px;
+            border-radius: 8px 8px 8px 8px;
+        }
+
+        h1 {
+           font-size: 35px;
+           font-weight: bold;
+           letter-spacing: 4px; 
+           height: 18px;
+           color: #ededed; 
+           text-transform:uppercase;
+           text-shadow: 5px 5px 5px #292727;
+        }
+        
+        
+        h2, h3, h4 {font-family: Tahoma, Geneva, sans-serif;
+           font-size: 20px;
+           font-style: normal;
+           font-variant: small-caps;
+           text-transform: capitalize;
+           letter-spacing: 4px;
+           height: 18px;
+           color: #1a0c1a; 
+           text-shadow: 0px 0px 5px #fff, 1px 1px 0px #fff;   
+        }
+        
+        h3 {margin: -5px 0 15px;
+        }
+        
+        h4 {margin: 0px 0 15px;
+        }
+        
+        h5 {font-family: "Lucida Sans",Verdana; 
+        margin: 0px 0 15px;
+        font-size: 18px;
+        text-align: center;
+        font-weight: bold;
+        text-transform: capitalize;
+        letter-spacing: 1px;
+        text-shadow: 0px 0px 5px #fff, 1px 1px 0px #fff;
+        color: #1a0c1a;
+        }
+
+
+        h5 a {
+            color: #1a0c1a;
+            text-decoration: none;
+        }
+
+        h5 a:hover {
+            color: #7d6d7d;
+        }
+
+.preview {
+           box-shadow: #292727 0px 0.0625em 0.0625em, #292727 0px 0.125em 0.5em, #292727 0px 0px 0px 1px inset;
+        }
+        
+         #protab {margin-left: auto;
+           margin-right: auto;
+        }
+        
+         #program{text-transform:uppercase;
+           font-family:Verdana,Verdana;
+           letter-spacing: 1px; 
+           font-size: 13px;
+           text-shadow: 0px 0px 3px #fff, 1px 1px 0px #fff;
+           width: auto;
+           height: 20px;
+           background-color: #b0acb0;
+           border: 1px solid #D4AF37;
+           color: #1a0c1a;
+           text-align: center;
+           line-height: 20px;
+           padding: 5px 20px;
+           webkit-border-radius: 5px 5px 5px 5px;
+           -moz-border-radius: 5px 5px 5px 5px;
+           border-radius: 5px 5px 5px 5px;
+           -webkit-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           -moz-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+
+         }
+         
+         hr {
+           width: 25%;            
+           border: 0;             
+           border-top: 1px solid #1a0c1a;
+           margin-top: 2px;
+           margin-bottom:5px; 
+         }
+         
+         #info1 { 
+           position: relative;
+           background-image: url('file:///D:/!!!Nicki!!!/Blog/Tutorials/Tutorials/BG1.png');
+           padding: 20px 20px 20px;
+           background-color: #f0f0f0;
+           text-align: center;
+           vertical-align: middle;
+           border-left: 1px solid #D4AF37;
+           border-bottom: 5px solid #1a0c1a;
+           border-right: 1px solid #D4AF37;
+           border-top: 1px solid #D4AF37;
+           -webkit-box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           -moz-box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           -webkit-border-radius: 8px 8px 8px 8px;
+           -moz-border-radius: 8px 8px 8px 8px;
+           border-radius: 8px 8px 8px 8px;
+        }
+        
+
+        #info1::before {
+           content: 'Information';
+           font-size: 15px;
+           font-weight: bold;
+           position: absolute;
+           top: -10px;
+           left: -25px;
+           width: auto;
+           height: 20px;
+           background-color: #1a0c1a;
+           border: 1px solid #D4AF37;
+           -webkit-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           -moz-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           color: #f0f0f0;
+           text-align: center;
+           line-height: 20px;
+           padding: 5px 20px;
+           -webkit-border-radius: 5px 5px 5px 5px;
+           -moz-border-radius: 5px 5px 5px 5px;
+           border-radius: 5px 5px 5px 5px;
+
+        }
+
+        #info2 {  
+           background-image: url('file:///D:/!!!Nicki!!!/Blog/Tutorials/Tutorials/BG1.png');
+           position: relative;
+           padding: 55px 20px 20px;
+           min-padding: 55px 20px 20px;
+           background-color: #f0f0f0;
+           text-align: center;
+           vertical-align: middle;
+           border-left: 1px solid #D4AF37;
+           border-bottom: 5px solid #1a0c1a;
+           border-right: 1px solid #D4AF37;
+           border-top: 1px solid #D4AF37;
+           -webkit-box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           -moz-box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           -webkit-border-radius: 8px 8px 8px 8px;
+           -moz-border-radius: 8px 8px 8px 8px;
+           border-radius: 8px 8px 8px 8px;
+           counter-increment: step; 
+        }
+
+
+/* Dekorationselement in der Zelle */
+        #info2::before {
+           content: 'Schritt ' counter(step); 
+           font-size: 15px;
+           font-weight: bold;
+           position: absolute;
+           top: 15px;
+           left: -5px;
+           width: 739px;
+           padding: 5px 20px;
+           background-color: #1a0c1a;
+           border: 1px solid #D4AF37;
+           -webkit-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           -moz-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           color: #f0f0f0;
+           -webkit-border-radius: 5px 5px 5px 5px;
+           -moz-border-radius: 5px 5px 5px 5px;
+           border-radius: 5px 5px 5px 5px;
+        }
+
+
+        #info3 {
+           position: relative;
+           background-image: url('file:///D:/!!!Nicki!!!/Blog/Tutorials/Tutorials/BG1.png');
+           padding: 20px;
+           background-color: #f0f0f0;
+           text-align: center;
+           vertical-align: middle;
+           border-left: 1px solid #D4AF37;
+           border-bottom: 5px solid #1a0c1a;
+           border-right: 1px solid #D4AF37;
+           border-top: 1px solid #D4AF37;
+           -webkit-box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           -moz-box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           -webkit-border-radius: 8px 8px 8px 8px;
+           -moz-border-radius: 8px 8px 8px 8px;
+           border-radius: 8px 8px 8px 8px;
+        }
+
+
+        #info3::before {
+           content: 'Zubehör und Material';
+           font-size: 15px;
+           font-weight: bold;
+           position: absolute;
+           top: -10px;
+           left: -25px;
+           width: auto;
+           height: 20px;
+           background-color: #1a0c1a;
+           border: 1px solid #D4AF37;
+           -webkit-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           -moz-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           color: #f0f0f0;
+           text-align: center;
+           line-height: 20px;
+           padding: 5px 20px;
+           -webkit-border-radius: 5px 5px 5px 5px;
+           -moz-border-radius: 5px 5px 5px 5px;
+           border-radius: 5px 5px 5px 5px;
+        }
+
+        #info4 {
+           position: relative;
+           background-image: url('file:///D:/!!!Nicki!!!/Blog/Tutorials/Tutorials/BG1.png');
+           padding: 20px;
+           background-color: #f0f0f0;
+           text-align: center;
+           vertical-align: middle;
+           border-left: 1px solid #D4AF37;
+           border-bottom: 5px solid #1a0c1a;
+           border-right: 1px solid #D4AF37;
+           border-top: 1px solid #D4AF37;
+           -webkit-box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           -moz-box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           box-shadow: 0px 3px 3px 1px rgba(0,0,0,0.18);
+           -webkit-border-radius: 8px 8px 8px 8px;
+           -moz-border-radius: 8px 8px 8px 8px;
+           border-radius: 8px 8px 8px 8px;
+        }
+
+
+        #info4::before {
+           content: 'Filter und Instruktionen';
+           font-size: 15px;
+           font-weight: bold;
+           position: absolute;
+           top: -10px;
+           left: -25px;
+           width: auto;
+           height: 20px;
+           background-color: #1a0c1a;
+           border: 1px solid #D4AF37;
+           -webkit-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           -moz-box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           box-shadow: 0px 0px 2px 1px rgba(0,0,0,0.75);
+           color: #f0f0f0;
+           text-align: center;
+           line-height: 20px;
+           padding: 5px 20px;
+           -webkit-border-radius: 5px 5px 5px 5px;
+           -moz-border-radius: 5px 5px 5px 5px;
+           border-radius: 5px 5px 5px 5px;
+        }
+
+.content1, .content2  {color: #1a0c1a;
+           font-family:Verdana,Verdana, Verdana;
+           letter-spacing: 0px;
+           font-size: 14px;
+           font-weight: bold;
+           line-height: 21px;
+           text-shadow: 0px 0px 5px #fff, 1px 1px 0px #fff;
+           line-height: 20px;
+           text-align: center;
+           padding-top: 0px;
+           padding-bottom: 0px;
+           padding-right: 0px;
+           padding-left: 0px;
+           
+        }
+        
+ /* Vorwort */    
+        
+.content2  {padding-top: 5px;
+           padding-bottom: 0px;
+           padding-right: 0px;
+           padding-left: 0px;
+           letter-spacing: 0px;
+        }
+.note    {text-decoration: none;
+           letter-spacing: 0px;
+           text-transform: capitalize;
+           font-variant: small-caps;
+        }
+
+.mat{font-family: "Lucida Sans",Verdana;   font-size: 18px; ;
+        }
+        
+/* Farbbox */
+.colorbox {width: 80px;
+           text-align: center;
+           text-shadow: 1px 0px 1px #b9b9b9, 1px 1px 0px #000;
+           height: 40px; 
+           font-family: "Lucida Sans",Verdana;
+           font-size: 13px;
+           border: 1px solid #1a0c1a;
+           margin-top: 10px;
+           margin-bottom: 10px;
+           justify-content: center;
+           align-items: center;
+           } 
+            
+.color {justify-content: center;
+           display: flex;
+           gap: 5px;
+           flex-wrap: wrap;
+           }
+           
+/* Stil für den Pfeil */
+
+#scrollUp  {display: block;}
+.scroll-up {
+           position: fixed;
+           cursor: pointer;
+           margin-bottom: 30px;
+           padding-right: 100px;
+           bottom: 5vh; 
+           right: 5vw;   
+           width: 8vw;   
+           height: 8vw;  
+           min-width: 40px;
+           min-height: 40px;
+           bottom: 0px;
+           right: 20px;
+           width: 90px;
+           height: 70px;
+}
